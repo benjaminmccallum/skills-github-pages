@@ -1,3 +1,4 @@
+# Data Colloquium
 ---
 title: Welcome to my blog
 ---
